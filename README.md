@@ -6,4 +6,9 @@ Currently, I'm focusing on:
 - [x] Blockchain and multichain interoperability;
 - [x] Web development;
 
+Interested in:
+* TON network and Telegram foundation;
+* Flashbots driven MEV opportunities;
+* Exonum related solutions;
+
 _remember: "If you're not tired you're not doing it right!"_
