@@ -11,4 +11,4 @@ Interested in:
 * Flashbots driven MEV opportunities;
 * Exonum related solutions;
 
-_remember: "If you're not tired you're not doing it right!"_
+_fingerprint: `3D89 7741 5589 179E ECDD  DA13 088F C1C0 1B85 537E`_
